@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Fredrik Kungsbacka
+# Hi there 👋 I'm Fredrik from Kungsbacka kommun
 
 Welcome to my GitHub profile!
 
