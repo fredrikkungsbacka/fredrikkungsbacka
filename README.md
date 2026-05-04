@@ -16,10 +16,6 @@ I’m a dedicated **Network Engineer** with a strategic mindset, specializing in
 - [**domainvalidation**](https://github.com/fredrikkungsbacka/domainvalidation): Automate domain validation processes for reliable network operations.
 - [**keywords**](https://github.com/fredrikkungsbacka/keywords): Python utilities and scripts focused on network automation.
 
-## 📈 GitHub Stats
-
-![Fredrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=fredrikkungsbacka&show_icons=true&hide=issues&count_private=true)
-
 ---
 
 *Always striving to connect, automate, and secure the digital world.*
